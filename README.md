@@ -160,11 +160,3 @@ O arquivo `relatorio.pdf` contém:
 * Tabelas de resultados
 * Comparação entre algoritmos
 * Conclusão sobre desempenho
-
----
-
-## 🧑‍💻 Autor
-
-Seu Nome Aqui
-Disciplina: Estrutura de Dados
-Professor: Nome do Professor
